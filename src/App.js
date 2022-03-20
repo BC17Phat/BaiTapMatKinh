@@ -12,6 +12,9 @@ import ShoesShop from './Props/ShoesShop/ShoesShop';
 import BaiTapLayOut1 from './components/BaiTapLayout1/BaiTapLayOut1';
 import BaiTapMatKinh from './Bài tập glasses Mắt Kính/BaiTapMatKinh';
 import BaiTapGioHangRedux from './DemoRedux/BaiTapGioHangRedux/BaiTapGioHangRedux';
+import SinhVien from './Databinding1/SinhVien';
+import Event from './Databinding1/Event';
+
 
 
 
@@ -20,6 +23,8 @@ function App() {
     <div className="App">
       {/* <BaiTapLayOut1/> xem trong Tongquan ReactJs */}
       {/* <Databinding /> */}
+      {/* <SinhVien/> */}
+      {/* <Event/> */}
       {/* <HandleEvent /> */}
       {/* <Rendering_Conditions /> */}
       {/* <Ex1StateDemo /> */}
@@ -28,8 +33,8 @@ function App() {
       {/* <DemoProps/> */}
       {/* <ShoesShop/> */}
       {/* <BaiTapXemChiTietSP /> */}
-      {/* <BaiTapMatKinh/> */}
-      <BaiTapGioHangRedux/>
+      <BaiTapMatKinh/>
+      {/* <BaiTapGioHangRedux/> */}
     </div>
   );
 }

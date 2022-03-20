@@ -1,3 +1,4 @@
+// binding là đưa dữ liệu biến , tham số , 1 cái chuỗi thuộc tính lên giao diện lợi ích ( viết cú pháp dài dòng document.getelementbyId....)
 import React, { Component } from 'react'
 
 export default class Databinding extends Component {
